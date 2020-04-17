@@ -56,7 +56,7 @@ describe Travis::Yml::Schema::Def::Dist do
             ]
           }
         },
-       'server-2016': {
+        'server-2016': {
           only: {
             os: [
               'windows'
